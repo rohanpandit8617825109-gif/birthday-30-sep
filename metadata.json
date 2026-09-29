@@ -1,0 +1,6 @@
+{
+  "name": "Kashish Gupta Birthday Surprise",
+  "description": "A premium, emotional interactive birthday surprise website for sister Kashish Gupta featuring games, interactive cake with blowable candle, gift box opening, and heartfelt brotherly wishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
